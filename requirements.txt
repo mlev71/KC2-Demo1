@@ -1,0 +1,4 @@
+requets
+json
+boto3
+hashlib
